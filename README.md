@@ -33,3 +33,6 @@ Skills: JQ/ JS / HTML / CSS/ WordPress/ MySQL
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/rubel1739)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/rubel1739)  
+
+
+https://github.com/anuraghazra/github-readme-stats.git
