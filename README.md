@@ -15,8 +15,6 @@ Skills: JQ/ JS / HTML / CSS/ WordPress/ MySQL
 - 🌱 I’m currently learning Computer Science And Engineering  
 - 📫 How to reach me: mdrubelislam1739@gmail.com 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/rubel1739)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rubel1739)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rubel1739/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rubel1739)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rubel.1739/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rubel1739)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCDbiqO4w4-v_dHr6s5DY3ug)  
 
